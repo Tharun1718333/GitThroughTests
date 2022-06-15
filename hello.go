@@ -1,6 +1,6 @@
 package main
 
-const EnglishGreeeting = "Hello ,"
+const EnglishGreeeting = "Hello, "
 
 func Hello(k string) string {
 	return EnglishGreeeting + k
